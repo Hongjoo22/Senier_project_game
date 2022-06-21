@@ -1,5 +1,5 @@
-# Senier_project_game
-숭실대학교_졸업작품_게임_InsideTheDark
+# InsideTheDark
+숭실대학교 졸업작품 게임
 
 ## 기간 (약 10개월)
 2020.08.01 ~ 2021.05.23
@@ -75,3 +75,20 @@
 1. 기획을 시스템 단위로 더 구체적으로 해야 나중에 개발할 때 편하다는 것을 깨달았습니다.
 2. 모든 프로젝트를 gitlab에 올려서 형상관리를 하는 것이 아닌 소스코드만 공유하는 방식이 효율적이라는 것을 깨달았습니다
 3. 모든 과정이 처음이었지만 팀원끼리 서로 소통을 많이 하고 시행착오를 많이 겪어보면 좋은 성과를 얻을 수 있다는 것을 깨달았습니다.
+
+## 인게임 사진
+![storyline](https://user-images.githubusercontent.com/65024497/174811771-06e88a0d-bd96-42d3-bf66-cdc429820fc3.png)
+![key_setting](https://user-images.githubusercontent.com/65024497/174811832-f46ea80f-1097-4805-905b-bdfeb80b6638.png)
+![storytelling](https://user-images.githubusercontent.com/65024497/174812393-cc8c7b3a-d3d0-41fd-af19-2f65eb485305.png)
+
+<캐릭터 선택창>
+![11](https://user-images.githubusercontent.com/65024497/174815004-2c6e5b92-fcd6-41c8-b959-fa5fb5f0f00c.jpg)
+<좀도둑 UI>
+![222](https://user-images.githubusercontent.com/65024497/174815012-95ec4dd3-d500-4d19-9b3d-fe751df7c9d5.jpg)
+<집주인 UI>
+![333](https://user-images.githubusercontent.com/65024497/174815017-bf899dac-8118-457f-bd75-db55215494ca.jpg)
+![555](https://user-images.githubusercontent.com/65024497/174815033-1ec824c2-9929-4be2-be8c-9b97fdf81768.jpg)
+<실제 졸업 전시 플레이 사진>
+![666](https://user-images.githubusercontent.com/65024497/174815065-396129a8-7317-4354-a0c1-59791962b908.png)
+
+
