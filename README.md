@@ -79,19 +79,19 @@
 ## 인게임 사진
 ![storyline](https://user-images.githubusercontent.com/65024497/174811771-06e88a0d-bd96-42d3-bf66-cdc429820fc3.png)
 ![key_setting](https://user-images.githubusercontent.com/65024497/174811832-f46ea80f-1097-4805-905b-bdfeb80b6638.png)
-![storytelling](https://user-images.githubusercontent.com/65024497/174812393-cc8c7b3a-d3d0-41fd-af19-2f65eb485305.png)
+![storytelling](https://user-images.githubusercontent.com/65024497/174812393-cc8c7b3a-d3d0-41fd-af19-2f65eb485305.png)   
 
-<캐릭터 선택창>   
-![11](https://user-images.githubusercontent.com/65024497/174815004-2c6e5b92-fcd6-41c8-b959-fa5fb5f0f00c.jpg)
-<좀도둑 UI>   
-![222](https://user-images.githubusercontent.com/65024497/174815012-95ec4dd3-d500-4d19-9b3d-fe751df7c9d5.jpg)
-<집주인 UI>   
+###### <캐릭터 선택창>   
+![11](https://user-images.githubusercontent.com/65024497/174815004-2c6e5b92-fcd6-41c8-b959-fa5fb5f0f00c.jpg)   
+###### <좀도둑 UI>   
+![222](https://user-images.githubusercontent.com/65024497/174815012-95ec4dd3-d500-4d19-9b3d-fe751df7c9d5.jpg)   
+###### <집주인 UI>   
 ![333](https://user-images.githubusercontent.com/65024497/174815017-bf899dac-8118-457f-bd75-db55215494ca.jpg)
-![555](https://user-images.githubusercontent.com/65024497/174815033-1ec824c2-9929-4be2-be8c-9b97fdf81768.jpg)
-<실제 졸업 전시 플레이 사진>   
-![666](https://user-images.githubusercontent.com/65024497/174815065-396129a8-7317-4354-a0c1-59791962b908.png)
+![555](https://user-images.githubusercontent.com/65024497/174815033-1ec824c2-9929-4be2-be8c-9b97fdf81768.jpg)   
+###### <실제 졸업 전시 플레이 사진>   
+![666](https://user-images.githubusercontent.com/65024497/174815065-396129a8-7317-4354-a0c1-59791962b908.png)   
 
-<인테리어>   
+###### <인테리어>   
 ![인게임사진](https://user-images.githubusercontent.com/65024497/174817213-32195e18-3fc2-4d5a-9402-6b450bab6af4.jpg)
 ![인게임2](https://user-images.githubusercontent.com/65024497/174817229-beb35f66-4280-42c9-8b3f-8b3d71bc0068.jpg)
 ![인게임3](https://user-images.githubusercontent.com/65024497/174817233-5aa1bde3-b16d-472c-9955-60900b9e3d1e.jpg)
